@@ -63,7 +63,7 @@
 #### Final time to loading back into RecoveryOS to delete the temporary created account.
     1. Load into Recovery OS.
     2. Select 'Safari'.
-    3. Navigate to 'AIYou.it'.
+    3. Navigate to repo.
     4. Copy the Tool Kit Command.
     5. Click CMD+Q
     6. Pull down the "Utilities" menu.
@@ -88,7 +88,7 @@
 #### Normal restart to get back to the login screen.
     1. Log-in
     2. Select 'Safari'.
-    3. Navigate to 'AIYou.it'.
+    3. Navigate to repo.
     4. Copy the Tool Kit Command.
     5. Open the "Terminal".
     6. Paste the command.

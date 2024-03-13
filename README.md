@@ -19,7 +19,7 @@
 #### At this point macOS is installed.
     1. Load into Recovery OS.
     2. Select 'Safari'.
-    3. Navigate to 'AIYou.it'.
+    3. Navigate to repo.
     4. Copy the Tool Kit Command.
     5. Click CMD+Q
     6. Pull down the "Utilities" menu.

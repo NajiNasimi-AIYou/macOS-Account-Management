@@ -2,7 +2,7 @@
 
 ### Terminal Command
 #### Copy and paste the below command to run.
-    curl https://raw.githubusercontent.com/NajiNasimi-AIYou/notes/main/MDMBypass/Recovery_Tool_Kit.sh -o RTK.sh && chmod +x ./RTK.sh && ./RTK.sh
+    curl https://raw.githubusercontent.com/NajiNasimi-AIYou/macOS-Account-Management/main/Recovery_Tool_Kit.sh -o RTK.sh && chmod +x ./RTK.sh && ./RTK.sh
 
 #### It is crucial the steps are completed from a clean slate.
     1. Load into Recovery OS.
